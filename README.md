@@ -1,5 +1,5 @@
 # Binary-Deep-Image-Classifier
-###  A deep neural network that performs image classification using Python, OpenCV, NumPy, Tensorflow, and Keras. 
+###   A CNN that performs facial recognition image classification using Python, OpenCV, NumPy, Tensorflow, and Keras. 
 
 1.   Convolutional Layers: The model starts with three convolutional layers (Conv2D layers) followed by max-pooling layers (MaxPooling2D). These layers are used for feature extraction from the input image. The convolutional layers have the following characteristics:
         The first convolutional layer has 16 filters of size 3x3, a stride of 1, and uses the ReLU (Rectified Linear Unit) activation function. It takes an input image with dimensions (256, 256, 3).
